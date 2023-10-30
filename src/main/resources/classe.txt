@@ -1,0 +1,40 @@
+categorie					Additifs alimentaires
+
+marque						La Patelière
+
+nom						Perles argentées		
+
+nutritionGradeFr				d
+	
+ingredients					Sucre, amidon de riz et de maïs, sirop de glucose, arôme, colorant : argent.
+	
+energie100g					1671
+graisse100g					0.5
+sucres100g					91.2
+fibres100g					Null
+proteines100g					0.5
+sel100g						0.0001
+
+vitA100g					Null					
+vitD100g					Null
+vitE100g					Null	
+vitK100g					Null
+vitC100g					Null
+vitB1100g					Null
+vitB2100g					Null
+vitPP100g					Null
+vitB6100g					Null
+vitB9100g					Null
+vitB12100g					Null
+	
+calcium100g					Null					
+magnesium100g					Null
+iron100g					Null
+fer100g						Null
+betaCarotene100g				Null
+
+presenceHuilePalme				false
+	
+allergenes					Null
+	
+additifs					E174 - Argent	
